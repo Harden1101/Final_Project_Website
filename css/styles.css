@@ -100,6 +100,14 @@ nav .navbar-nav li a{
 
 /* Hero *//* hero *//* hero */
 
+.hero{
+    background-image: url(../images/Hero_BG.png);
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
 .logo_container{
     margin-top: 100px;
 }
@@ -120,7 +128,7 @@ nav .navbar-nav li a{
 }
 
 .hero_device_img img{
-    width: 85%;
+    width: 120%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -146,3 +154,11 @@ nav .navbar-nav li a{
     width: 100%;
 }
 
+@media only screen and (max-width: 768px){
+    .hero{
+        background-image: url(../images/Hero_BG2.png);
+
+    
+    }
+
+}
