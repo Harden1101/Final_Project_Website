@@ -120,7 +120,7 @@ nav .navbar-nav li a{
     height: 45px;
     width: 145px;
     color: #1a1a1a;
-    background-color: white;
+    background-color: #E2B74F;
     border-radius: 15px;
     line-height: 45px;
     text-align: center;
@@ -153,6 +153,15 @@ nav .navbar-nav li a{
 .app_img_container1 img{
     width: 100%;
 }
+
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width: 768px){
     .hero{
