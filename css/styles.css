@@ -19,7 +19,7 @@ section{
 }
 
 .light_gray{
-    background-color: #535353;
+    background-color: #3a3a3a;
 }
 
 .hind-light {
@@ -70,10 +70,6 @@ p{
 
 /* Nav Section */
 
-.navbar-custom {
-    background-color: #1a1a1a;
-}
-
 .nav-item{
     display: inline-block;
 }
@@ -84,6 +80,10 @@ p{
 
  .navbar-nav {
       margin-left: auto;
+    }
+
+    .navbar-toggler {
+        background-color: white !important;
     }
 
 nav .navbar-nav li a{
@@ -101,6 +101,7 @@ nav .navbar-nav li a{
 /* Hero *//* hero *//* hero */
 
 .hero{
+    padding-top: 0px;
     background-image: url(../images/Hero_bg.png);
     background-size: cover;
     background-position: right;
@@ -159,7 +160,12 @@ nav .navbar-nav li a{
 
 
 
-
+@media only screen and (max-width: 992px){
+    li{
+        text-align: center;
+         }
+    
+}
 
 
 
