@@ -15,11 +15,11 @@ section{
 }
 
 .dark_gray{
-    background-color: #2B333D;
+    background-color: #1a1a1a;
 }
 
 .light_gray{
-    background-color: #363E47;
+    background-color: #535353;
 }
 
 .hind-light {
@@ -71,7 +71,7 @@ p{
 /* Nav Section */
 
 .navbar-custom {
-    background-color: #2B333D;
+    background-color: #1a1a1a;
 }
 
 .nav-item{
