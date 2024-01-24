@@ -142,7 +142,8 @@ nav .navbar-nav li a{
 /* section 2 */
 
 .phoneimg_base img{
-    width: 100%;
+    width: 120%;
+    margin: auto;
 }
 
 
