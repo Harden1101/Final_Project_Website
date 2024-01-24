@@ -135,16 +135,65 @@ nav .navbar-nav li a{
     margin-right: auto;
 }
 
-/* Section 2 *//* Section 2 *//* Section 2 */
-/* Section 2 *//* Section 2 *//* Section 2 */
+/* section 3*/
 
-.Section_2_content, .section_3_content{
+.Section_2_content, .section_3_content, .section_4_content{
     padding-top: 100px;
 }
 
+.paragraph_lower{
+    margin-top: 100px;
+}
 
+.phoneimg_1{
+    margin-right: 30px;
+}
 
-/* section 3*/
+.phoneimg_1 img{
+    width: 110%;
+
+}
+
+.phoneimg_2{
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+
+.phoneimg_2 img{
+    width: 80%;
+}
+
+/* section 4*/
+
+.phoneimg_4{
+    margin-right: 30px;
+}
+
+.phoneimg_4 img{
+    width: 110%;
+
+}
+
+.phoneimg_3{
+    padding-top: 150px;
+    padding-bottom: 30px;
+}
+
+.phoneimg_3 img{
+    width: 80%;
+}
+
+.paragraph_width_adjust{
+    width: 80%;
+    text-align: center;
+}
+
+.paragraph_width_adjust p{
+    width: 100%;
+
+    color: pink;
+}
+/* section 5 */
 
 
 .app_img_container1{
