@@ -141,6 +141,10 @@ nav .navbar-nav li a{
 
 /* section 2 */
 
+.phoneimg_base{
+    padding-bottom: 100px;
+}
+
 .phoneimg_base img{
     width: 120%;
     margin: auto;
