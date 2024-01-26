@@ -244,6 +244,25 @@ video{
     width: 100%;
 }
 
+/* Section 6 */
+
+.section_6_content {
+    display: flex;
+    align-items: center;
+}
+
+.WatchFrontOne {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.col-md-3 {
+    flex: 0 0 25%;
+    padding-left: 80px;
+}
+
+
 /* Footer */
 
 footer {
