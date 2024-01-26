@@ -137,6 +137,24 @@ nav .navbar-nav li a{
     font-size: 17pt;
 }
 
+.sales_stats{
+    margin-top: 20px;
+}
+
+.sales_stats p{
+    font-weight:700 ;
+    font-size: 18pt;
+}
+
+.sales_stats span{
+    color: #E2B74F;
+    font-size: 20pt;
+}
+
+.more_than_5k{
+    border-left: solid 3px white;
+}
+
 .hero_device_img img{
     width: 120%;
     display: block;
