@@ -58,7 +58,12 @@ section{
     margin: auto;
 }
 
-a, P, h1, h2, h3{
+h1, h2, h3{
+    font-family: 'Calistoga', serif;
+    color: white;
+}
+
+a, P {
     font-family: hind;
     color: rgb(255, 255, 255);
 }
