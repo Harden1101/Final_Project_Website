@@ -221,10 +221,44 @@ video{
     width: 100%;
 }
 
+/* Footer */
+
+footer {
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+.footer-logo {
+    width: 150px;
+    height: auto; 
+    margin-right: 0px;
+    padding-block: 60px;
+}
 
 
+.footer-link {
+    padding-inline: 50px;
+    font-size: 18pt;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+}
 
+.footer-link:hover {
+    text-decoration: underline;
+    color: #fff;
+}
 
+.center-div {
+    max-width: 1140px;
+    align-items: center;
+    margin: 0 auto;
+}
 
 @media only screen and (max-width: 992px){
     li{
