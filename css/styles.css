@@ -174,7 +174,8 @@ nav .navbar-nav li a{
 }
 
 video{
-    width: 110%;
+    width: 115%;
+    margin-top: -60px;
 }
 
 /* section 3*/
