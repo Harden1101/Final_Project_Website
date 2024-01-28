@@ -248,9 +248,8 @@ video{
 
 /* Section 6 */
 
-.section_6_content {
-    display: flex;
-    align-items: center;
+.section_6_content h1 {
+padding-top: 00px;
 }
 
 .WatchFrontOne {
