@@ -153,6 +153,7 @@ nav .navbar-nav li a{
 
 .more_than_5k{
     border-left: solid 3px white;
+    
 }
 
 .hero_device_img img{
@@ -174,7 +175,7 @@ nav .navbar-nav li a{
 }
 
 video{
-    width: 115%;
+    width: 100%;
     margin-top: -60px;
 }
 
@@ -254,8 +255,8 @@ video{
 
 .WatchFrontOne {
     max-width: 100%;
-    height: auto;
-    display: block;
+    margin: auto;
+
 }
 
 .col-md-3 {
