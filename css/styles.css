@@ -259,10 +259,14 @@ video{
     width: 100%;
 }
 
+.Section6Title {
+    flex-grow: 1;
+    text-align: center;
+}
+
 .WatchFrontOne {
     max-width: 100%;
     margin: auto;
-
 }
 
 .img-fluid{
