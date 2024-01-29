@@ -137,6 +137,10 @@ nav .navbar-nav li a{
     font-size: 17pt;
 }
 
+.download_bttn:hover{
+    background-color: #F8E7BD;
+}
+
 .sales_stats{
     margin-top: 20px;
 }
@@ -186,7 +190,7 @@ video{
 }
 
 .paragraph_lower{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .phoneimg_1{
@@ -226,8 +230,7 @@ video{
 
 .paragraph_width_adjust{
     width: 80%;
-    text-align: center;
-}
+ }
 
 .paragraph_width_adjust p{
     width: 100%;
@@ -245,20 +248,35 @@ video{
 
 /* Section 6 */
 
-.section_6_content h1 {
-padding-top: 00px;
+
+
+.watch_img_angle{
+    width: 100%;
+    margin-top: 160px;
+}
+
+.watch_img_angle img{
+    width: 100%;
 }
 
 .WatchFrontOne {
     max-width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
     margin: auto;
 
 }
 
-.col-md-3 {
-    flex: 0 0 25%;
-    padding-left: 80px;
+.img-fluid{
+    padding-top: 150px;
+    padding-bottom: 150px
 }
+
+
+
+/* section 7 */
+
+
 
 
 /* Footer */
