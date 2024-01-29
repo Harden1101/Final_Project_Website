@@ -193,10 +193,6 @@ video{
     margin-right: 30px;
 }
 
-.phoneimg_1 img{
-    width: 110%;
-
-}
 
 .phoneimg_2{
     padding-top: 150px;
@@ -207,19 +203,20 @@ video{
     width: 80%;
 }
 
-/* section 4*/
-
-.phoneimg_4{
-    margin-right: 30px;
+.video_posting{
+    width: 220%;
+    margin: auto;
+    margin-left: -200px;
 }
 
-.phoneimg_4 img{
-    width: 110%;
+/* section 4*/
 
+.Vid_social1{
+    width: 115%;
 }
 
 .phoneimg_3{
-    padding-top: 150px;
+    padding-top: 220px;
     padding-bottom: 30px;
 }
 
