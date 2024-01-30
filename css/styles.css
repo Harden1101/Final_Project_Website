@@ -122,11 +122,12 @@ nav .navbar-nav li a{
     width: 90%; 
 }
 
-.hero_left p span{
+.hero_center p span{
     color: #E2B74F;
 }
 
 .download_bttn{
+    margin-top: 20px;
     height: 45px;
     width: 145px;
     color: #1a1a1a;
@@ -142,10 +143,20 @@ nav .navbar-nav li a{
 }
 
 .sales_stats{
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
+.vert_line {
+height: 100%;
+width: 5px;
+color: white;
+background-color: white;
+}
+
+
 .sales_stats p{
+    margin: 0;
+    padding: 0;
     font-weight:700 ;
     font-size: 18pt;
 }
@@ -155,10 +166,6 @@ nav .navbar-nav li a{
     font-size: 20pt;
 }
 
-.more_than_5k{
-    border-left: solid 3px white;
-    
-}
 
 .hero_device_img img{
     width: 120%;
